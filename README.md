@@ -1,7 +1,7 @@
 # Tutorial sobre scikit-learn
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/angelblasco/tutorial-sklearn/master)
 
-Este repositorio contiene una serie de material sobre un breve tutorial sobre ``scikit-learn`` en Python. Está basado en el tutorial de ``scikit-learn`` realizado en la conferencia Scipy2017 (ver referencias).
+Este repositorio contiene una serie de material sobre un breve tutorial sobre ``scikit-learn`` en Python.
 
 
 ## Conseguir el material para el tutorial
